@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm Danilo Duleba, a Computer Science student at Cesar School.</p>
+<p align="left">Here, you can find personal projects as well as those from my Bachelor of Science in Computer Science. .</p>
 
 ###
 
