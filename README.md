@@ -29,3 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40
+<h2 align="left">Contact</h2>
+
+###
+
+<p align="left">📧 Feel free to reach out at: <a href="mailto:danduleba@gmail.com">danduleba@gmail.com</a></p>
