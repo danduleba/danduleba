@@ -11,7 +11,13 @@
 
 ###
 
-<p align="left">✨ Coding since: 02/2025 <br>📚 I'm currently learning: Python, JavaScript, HTML, CSS<br>🎯 Goals: Learn Java<br></p>
+<p align="left">
+  ✨ Coding since: 02/2025 <br>
+  📚 I'm currently learning: Python, JavaScript, HTML, CSS <br>
+  🎯 Goals: Learn Java <br>
+  📧 Feel free to reach out at: <a href="mailto:danduleba@gmail.com">danduleba@gmail.com</a>
+</p>
+
 
 ###
 
@@ -33,4 +39,4 @@
 
 ###
 
-<p align="left">📧 Feel free to reach out at: <a href="mailto:danduleba@gmail.com">danduleba@gmail.com</a></p>
+
