@@ -13,7 +13,7 @@
 
 <p align="left">
   ✨ Coding since: 02/2025 <br>
-  📚 I'm currently learning: Python, JavaScript, HTML, CSS <br>
+  📚 I'm currently learning: Python, JavaScript, HTML, CSS, C, JAVA <br>
   🎯 Goals: Learn Java <br>
   📧 Feel free to reach out at: <a href="mailto:danduleba@gmail.com">danduleba@gmail.com</a>
 </p>
@@ -39,6 +39,8 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-</div>
+  <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+</div>
 
